@@ -6,7 +6,7 @@
 
 4. paste the project folder in htdocs or www.
 
-5.
+5.Database Name: gcuems_db
 
 email : 	admin@gmail.com
 Password : 	1234
